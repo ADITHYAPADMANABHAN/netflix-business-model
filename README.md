@@ -2,7 +2,7 @@
 
 This project is a deep dive into Netflix's business model, challenges, and proposed solutions.
 
-📄 [Download PDF](./Netflix_DeepDive.pptx)
+📄 [Download PDF](./Netflix_DeepDive.pptx.pptx)
 
 ---
 
